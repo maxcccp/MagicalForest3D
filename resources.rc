@@ -1,0 +1,14 @@
+#ifndef MB_PROGRAMMER3D_RESOURCES_RC__
+#define MB_PROGRAMMER3D_RESOURCES_RC__
+/*
+*	www.mbprogrammer.com
+*	www.github.com/maxcccp
+*   Copyright © 2018-2019
+*/
+
+
+#include "resources.hpp"
+
+MF3D_IMG_FORMAT_ICO ICON "mf3d.ico"
+
+#endif //MB_PROGRAMMER3D_RESOURCES_RC__
